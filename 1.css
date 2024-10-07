@@ -1,0 +1,35 @@
+*{
+  padding:0;
+  margin:0;
+}
+div{
+  width:100%;
+  background-color:skyblue;
+  text-align:center;
+  padding:30px 30px;
+margin:50px 50px;
+  border:2px solid gray;
+  border-radius:10px;
+  
+}
+p{
+  font-size:40px;
+  text-align:center;
+}
+button{
+  background-color:lightgray;
+  width:20%;
+  padding:10px;
+  margin:20px;
+  border:2px solid gray;
+  border-radius:10px;
+}
+label{
+font-size:25px;
+ 
+}
+div > input{
+  display:flex:
+  justify-content:space-evenly;
+  align-items:center;
+}
